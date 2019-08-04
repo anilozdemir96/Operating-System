@@ -1,6 +1,6 @@
 /*
 * Created on: Nov 1, 2015
-*	  Author: mbenlioglu
+*	  Author: aozdemir
 */
 #ifndef _LinkedList_H
 #define _LinkedList_H
