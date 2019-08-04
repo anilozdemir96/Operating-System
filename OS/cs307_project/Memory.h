@@ -1,5 +1,4 @@
 /*
-* Modified on: Dec 07, 2016
 *	   Author: aozdemir
 *
 *
