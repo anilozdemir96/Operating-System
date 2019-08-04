@@ -1,5 +1,4 @@
 /*
-* Created on: Dec 08, 2016
 *	  Author: aozdemir
 *
 *	- Assembler.cpp splitted into header and cpp for possible linking problems
