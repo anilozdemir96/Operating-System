@@ -1,6 +1,6 @@
 /*
 * Created on: Dec 08, 2016
-*	  Author: mbenlioglu
+*	  Author: aozdemir
 */
 #include "ProcessImage.h"
 
