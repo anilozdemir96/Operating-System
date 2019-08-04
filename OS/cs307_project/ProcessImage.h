@@ -1,6 +1,6 @@
 /*
 * Modified on: Dec 08, 2016
-*	   Author: mbenlioglu
+*	   Author: aozdemir
 *
 *	- Added ostream operator<< for outputting proccess image objects
 *   - Process Images now stores a process name as well.
