@@ -1,7 +1,4 @@
-/*
-* Created on: Dec 08, 2016
-*	  Author: aozdemir
-*/
+
 #include "ProcessImage.h"
 
 ProcessImage::ProcessImage()
