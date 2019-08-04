@@ -1,11 +1,8 @@
 /*
 * Modified on: Dec 07, 2016
-*	   Author: mbenlioglu
+*	   Author: aozdemir
 *
-*	- Changes according to step-1 requirements
-*   - Changes according to step-2 requirements (19-12-16)
-*		- hasFreeSpace is now a private function and returns a boolean result
-*		- addInstrunction now returns an integer result
+*
 */
 
 #ifndef MEMORY_H
