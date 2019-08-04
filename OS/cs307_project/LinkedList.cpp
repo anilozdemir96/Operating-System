@@ -1,6 +1,6 @@
 /*
 * Created on: Nov 1, 2015
-*	  Author: mbenlioglu
+*	  Author: aozdemir
 */
 #include "LinkedList.h"
 
